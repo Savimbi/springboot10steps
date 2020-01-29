@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpingbootIn10stepsApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SpingbootIn10stepsApplication.class, args);
+
 	}
+
 
 }
